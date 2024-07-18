@@ -1,6 +1,6 @@
 👋 Hello, I'm @iOtele.
 👀 Passionate about front-end development.
-🌱 Currently immersed in the world of JavaScript and it library React.
+🌱 Currently immersed in the world of JavaScript and library React.
 💞️ Eager to collaborate on projects to enhance my skills.
 📫 Reach me at lekanbiodun2@gmail.com.
 😄 Pronouns: He/him.
